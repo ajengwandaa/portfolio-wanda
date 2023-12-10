@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../../HTML"
+	}
+],
+  "settings": {
+    "files.exclude": {
+      "tut.js": true
+    }
+  }
+}
